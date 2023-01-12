@@ -1,4 +1,4 @@
 variable "apps" {
   description = "List of apps"
-  default = ["front", "back", "admin"]
+  default     = ["front", "back", "admin"]
 }

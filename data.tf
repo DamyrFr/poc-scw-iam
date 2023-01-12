@@ -1,5 +1,5 @@
 data "scaleway_iam_user" "moi" {
-  email    = "$VOTRE EMAIL"
+  email = "$VOTRE EMAIL"
 }
 
 data "scaleway_account_project" "prod" {
